@@ -1,0 +1,3 @@
+# local-planning-clothoid
+
+This repository encompasses a collection of functions employed in the field of path planning for mobile robotics. These functions serve the purpose of generating continuous curvature paths specifically designed for use in various scenarios, including intersections, roundabouts, and lane changes. The fundamental principle underlying these functions is the utilization of clothoid curves. Clothoids are characterized as spirals with a linear curvature relative to their arc length. An illustrative example is provided, demonstrating the application of state space sampling techniques to navigate around obstacles. This approach optimally employs clothoid curves concerning a reference path while prioritizing comfort during traversal.
